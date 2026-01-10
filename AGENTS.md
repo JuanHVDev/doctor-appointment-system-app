@@ -188,3 +188,6 @@ app/
 - [ ] Accessibility considerations included
 - [ ] Performance optimizations applied where needed
 - [ ] Security best practices followed
+
+## Additional Settings
+- Responde en español
